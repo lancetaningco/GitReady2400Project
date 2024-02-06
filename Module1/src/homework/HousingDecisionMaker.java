@@ -145,5 +145,7 @@ public class HousingDecisionMaker {
 		//Prints out how many points the student will get, based on the previous questions above
 		
 		scnr.close();
+
+		System.out.println("Hello, world");
 	}
 }
