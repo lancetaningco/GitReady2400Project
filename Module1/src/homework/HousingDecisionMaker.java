@@ -147,5 +147,6 @@ public class HousingDecisionMaker {
 		scnr.close();
 
 		System.out.println("Hello, world");
+		System.out.println("Hello, world");
 	}
 }
